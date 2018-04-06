@@ -1,0 +1,29 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "Hizone project1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellysherh/hizone-.git"
+  },
+  "keywords": [
+    "Angular",
+    "Noje.js",
+    "Express",
+    "Mongo"
+  ],
+  "author": "Elisha Kingdom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ellysherh/hizone-/issues"
+  },
+  "homepage": "https://github.com/Ellysherh/hizone-#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.13"
+  }
+}
