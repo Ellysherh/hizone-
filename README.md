@@ -1,1 +1,1 @@
-"# hizone-" 
+This is the basic social network application where users can signup/login (authentication is handled by JWT) users can publish posts and have other basic interactions. This project is built with ExpressJS, Node.js backend Javascript framework, MongoDB database and runs Angular2 on the front-end
